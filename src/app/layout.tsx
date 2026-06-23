@@ -15,7 +15,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Maria Clara Henriques | Contadora em São Luís-MA",
+  title: "Maria Clara Henrique | Contadora em São Luís-MA",
   description:
     "Contabilidade para MEIs, empresas e profissionais de saúde. Atendimento ágil e online para todo o Brasil. CRC-MA 016792/O-2.",
 };

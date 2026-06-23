@@ -1,7 +1,7 @@
-# Notas do Projeto — LP Maria Clara Henriques
+# Notas do Projeto — LP Maria Clara Henrique
 
 ## Identidade da cliente
-- **Nome:** Maria Clara da Silva Henriques
+- **Nome:** Maria Clara da Silva Henrique
 - **Empresa:** Contact Consultoria
 - **CRC:** CRC-MA 016792/O-2
 - **WhatsApp:** +55 98 98478-4490
